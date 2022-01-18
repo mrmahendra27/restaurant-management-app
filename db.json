@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Mahendra Singh Khati",
+      "email": "mkhati@gmail.com",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "name": "Hi ",
+      "email": "tets@tet.com",
+      "password": "hshhdd",
+      "id": 2
+    },
+    {
+      "name": "Test",
+      "email": "test@test.com",
+      "password": "Test@12345",
+      "id": 3
+    },
+    {
+      "name": "Mahendra",
+      "email": "testq@test.com",
+      "password": "passwor",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "name": "Mahendra",
+      "email": "mmmm@mmm.com",
+      "password": "mmm",
+      "id": 6
+    }
+  ]
+}
